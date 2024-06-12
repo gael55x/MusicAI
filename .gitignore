@@ -1,0 +1,6 @@
+images/
+output/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.ARTIST.ipynb
